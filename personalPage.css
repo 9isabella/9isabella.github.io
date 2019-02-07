@@ -7,13 +7,13 @@ body{
 h1{
     text-align: center;
     color: #22242E;
-    padding: 30px;
+    margin: 30px;
 }
 
 #image{
     align-content: center;
     width: 100%;
-    max-width: 900px;
+    max-width: 500px;
 }
 
 header{
