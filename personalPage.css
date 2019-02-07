@@ -12,5 +12,25 @@ h1{
 #image{
     align-content: center;
     width: 100%;
-    max-width: 500px;
+    max-width: 900px;
+}
+
+header{
+    background-color: #4CB3FF; 
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+    position: relative;
+}
+
+nav li{
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
+    width: 33%;
+    min-width: 110px;
+    float: left;
+    font-size: 30px;
 }
