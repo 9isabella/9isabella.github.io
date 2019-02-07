@@ -60,4 +60,23 @@ p{
 
 h4{
     text-decoration: underline;
+    padding-top: 10px;
+}
+
+#resume{
+    background-color: rgba(94, 158, 255, 0.432);
+    line-height: 1.5;
+    font-size: 15px;
+    padding: 30px;
+}
+
+#resume ul{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#resume h2{
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 20px;
 }
