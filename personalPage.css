@@ -11,7 +11,8 @@ body{
 h1{
     text-align: center;
     color: #22242E;
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 img{
@@ -25,7 +26,7 @@ header{
 
 nav ul{
     list-style-type: none;
-    padding: 0px;
+    padding: 10px;
     position: relative;
 }
 
@@ -36,8 +37,11 @@ nav li{
     min-width: 100px;
     float: left;
     font-size: 30px;
+}
+
+a{
     text-decoration: none;
-    color: rgb(32, 0, 0);
+    color: rgb(49, 2, 2);
 }
 
 p{
@@ -52,4 +56,8 @@ p{
     padding: 30px;
     height: 100%;
     background-color: rgba(94, 158, 255, 0.432);
+}
+
+h4{
+    text-decoration: underline;
 }
