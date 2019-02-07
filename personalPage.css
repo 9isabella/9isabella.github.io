@@ -1,5 +1,7 @@
 body{
     background-color: #C9C9C9; 
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 h1{
@@ -9,6 +11,6 @@ h1{
 
 #image{
     align-content: center;
-    width: 50%;
+    width: 500px;
     height: auto;
 }
