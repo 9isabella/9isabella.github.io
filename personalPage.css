@@ -7,6 +7,7 @@ body{
 h1{
     text-align: center;
     color: #22242E;
+    padding: 30px;
 }
 
 #image{
@@ -16,7 +17,7 @@ h1{
 }
 
 header{
-    background-color: #4CB3FF; 
+    background-color: rgb(88, 145, 189); 
 }
 
 nav ul{
@@ -27,7 +28,6 @@ nav ul{
 
 nav li{
     box-sizing: border-box;
-    padding: 5px;
     text-align: center;
     width: 33%;
     min-width: 110px;
