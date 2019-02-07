@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 body{
     background-color: #C9C9C9; 
     padding-left: 10%;
@@ -17,7 +21,6 @@ img{
 
 header{
     background-color: rgb(88, 145, 189); 
-    margin-top: 0px;
 }
 
 nav ul{
@@ -44,9 +47,9 @@ p{
 }
 
 #bio{
-    font-size: 25px;
+    font-size: 20px;
     line-height: 2;
     padding: 30px;
     height: 100%;
-    background-color: rgba(94, 158, 255, 0.616);
+    background-color: rgba(94, 158, 255, 0.432);
 }
