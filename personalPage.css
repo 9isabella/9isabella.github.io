@@ -42,3 +42,11 @@ p{
     line-height: 1.5;
     font-family: Cambria; 
 }
+
+#bio{
+    font-size: 25px;
+    line-height: 2;
+    padding: 30px;
+    height: 100%;
+    background-color: rgba(94, 158, 255, 0.616);
+}
