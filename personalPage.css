@@ -13,11 +13,14 @@ h1{
     color: #22242E;
     padding-top: 50px;
     padding-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img{
-    width: 500px;
-    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 header{
