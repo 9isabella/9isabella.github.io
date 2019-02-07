@@ -1,3 +1,14 @@
+body{
+    background-color: #C9C9C9; 
+}
+
 h1{
     text-align: center;
+    color: #22242E;
+}
+
+#image{
+    align-content: center;
+    width: 50%;
+    height: auto;
 }
